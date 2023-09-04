@@ -41,7 +41,7 @@ To set up and run the ChatGPT Web App Clone on your local machine, follow these 
 2. Navigate to the project directory:
 
    ```bash
-   cd chatgpt-web-app-clone
+   cd vercel-chatgpt-clone
    ```
 
 3. Install the project dependencies:
@@ -52,7 +52,7 @@ To set up and run the ChatGPT Web App Clone on your local machine, follow these 
 
 4. Create an account with OpenAI and obtain an API key.
 
-5. Configure your API key by adding it to a `.env.local` file in the project root directory:
+5. Configure your API key by adding it to a `.env` file in the project root directory:
 
    ```
    OPENAI_API_KEY=your-api-key-here
