@@ -1,4 +1,4 @@
-# ChatGPT Web App Clone
+# ChatGPT Clone
 
 This project is a clone of the ChatGPT web app, powered by the OpenAI API, implemented using Next.js, and deployed using the Vercel AI SDK. With this web app, users can interact with a ChatGPT-based language model to have natural language conversations.
 
@@ -35,7 +35,7 @@ To set up and run the ChatGPT Web App Clone on your local machine, follow these 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/chatgpt-web-app-clone.git
+   git clone https://github.com/winghojackyli/vercel-chatgpt-clone.git
    ```
 
 2. Navigate to the project directory:
